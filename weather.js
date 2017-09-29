@@ -1,6 +1,6 @@
 
 //* Project Information *//
-
+<!-- Project Name:          Weather API using OpenWeatherAPI -->
 // Porject File:          weather.js (2/3)
 // Project File Type:     Javascript
 
