@@ -1,15 +1,10 @@
 
 //* Project Information *//
 
-// Student Last Name:     Bhat 
-// Student First Name:    Sanjay Vasant 
-// UTA ID:                1001390524
-// Project Name:          Weather API using OpenWeatherAPI
-// Project Due On:        19th October 2016, 11:59pm
 // Porject File:          weather.js (2/3)
 // Project File Type:     Javascript
 
-var api_key = "8fb224dc2e9fc37abc6b141d5aa294eb"; // My API Key
+var api_key = "api-key-123"; // My API Key
 
 function sendRequest() {
     var xhr = new XMLHttpRequest();
